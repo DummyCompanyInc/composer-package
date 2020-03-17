@@ -1,0 +1,9 @@
+{
+    "name": "DummyCompanyInc/composer-package",
+    "authors": [
+        {
+            "name": "John Doe"
+        }
+    ],
+    "require": {}
+}
